@@ -10,4 +10,4 @@ Es bastante difícil establecer un orden en los archivos sin hacer lo mismo con 
 Este es el resultado de una primera aproximación.
 
 
-{{< embed-pdf url="https://bafkreiems2nbk4enujweqfrtobqs3jv6es4ddhzgveyww7neggnb6opqkq.ipfs.nftstorage.link/">}}
+{{<embed-pdf url="https://bafkreiems2nbk4enujweqfrtobqs3jv6es4ddhzgveyww7neggnb6opqkq.ipfs.nftstorage.link/">}}

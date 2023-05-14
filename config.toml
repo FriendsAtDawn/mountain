@@ -2,6 +2,7 @@ title = "Wilson Villalba"
 baseURL = "/"
 languageCode = "es-es"
 theme = "ananke"
+enableInlineShortcodes = true
 resourceDir = "../resources"
 
 DefaultContentLanguage = "es"

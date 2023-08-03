@@ -1,5 +1,5 @@
 title = "Wilson Villalba"
-baseURL = "i.villalba.is"
+baseURL = "/"
 languageCode = "es-es"
 theme = "ananke"
 enableInlineShortcodes = true

@@ -1,5 +1,5 @@
 title = "Wilson Villalba"
-baseURL = "/"
+baseURL = "https://friendsatdawn.github.io/mountain/"
 languageCode = "es-es"
 theme = "ananke"
 enableInlineShortcodes = true

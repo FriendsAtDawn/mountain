@@ -70,7 +70,7 @@ enableRobotsTXT = true
   author = "Wilson Villalba"
   favicon = "vvv.svg"
   site_logo = "vvv.svg"
-  description = "Litigios."
+  description = "Litigios. Buscador de Jurisprudencia. Si estás viendo este sitio estas viendo una copia no actualizada del mismo. Ve a villalba.is(htps://villalba.is)"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
   recent_posts_number = 3

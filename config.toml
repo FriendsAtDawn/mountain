@@ -1,7 +1,7 @@
 title = "Wilson Villalba"
 baseURL = "https://friendsatdawn.github.io/mountain/"
-languageCode = "es-es"
-theme = "ananke"
+languageCode = "es"
+theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
 resourceDir = "../resources"
 
@@ -16,7 +16,22 @@ enableRobotsTXT = true
     #author = "authors"
 
 [menu]
-  
+
+[[menu.main]]
+    identifier = 'servidor-1'
+    name = 'buscar jurisprudencia: servidor 01'
+    url = 'https://rcsj.0007407.xyz'
+    weight = 110
+[[menu.main]]
+    identifier = 'servidor-2'
+    name = 'servidor 02 '
+    url = 'https://firmus.site/recoll/'
+    weight = 120
+[[menu.main]]
+    identifier = 'servidor-3'
+    name = 'servidor 03'
+    url = 'https://2nd.firmus.site/recoll/'
+    weight = 130
   [[menu.main]]
     identifier = 'villalba.is'
     name = 'villalba.is'
@@ -27,8 +42,8 @@ enableRobotsTXT = true
     name = '0007407.xyz'
     url = 'https://0007407.xyz'
     weight = 100
-  
-    
+
+
     #[[menu.main]]
     #  identifier = 'about'
     #  name = 'about'
@@ -50,11 +65,11 @@ enableRobotsTXT = true
 
   [languages.es]
     title = "Wilson Villalba"
-    description = "Litigios"
+    description = "Litigios. Buscador de Jurisprudencia."
     weight = 1
     contentDir = "content/es"
   # languageDirection = 'rtl' for Right-To-Left languages
-  
+
   #[languages.fr]
   #  title = "Ananke Fr"
   #  weight = 2
@@ -70,15 +85,15 @@ enableRobotsTXT = true
   author = "Wilson Villalba"
   favicon = "vvv.svg"
   site_logo = "vvv.svg"
-  description = "Litigios. Buscador de Jurisprudencia. Si estás viendo este sitio estas viendo una copia no actualizada del mismo. Ve a villalba.is(htps://villalba.is)"
+  description = "Litigios. Buscador de jurisprudencia."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
   recent_posts_number = 3
   post_content_classes = "athelas"
   body_classes = "times"
   feature_image = "/images/cover.jpg"
+  mainSections = ['posts', 'modelos', 'plra']
 
 [[params.ananke_socials]]
   name = "telegram"
   url = "https://t.me/habermas"
-  

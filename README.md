@@ -1,5 +1,6 @@
 # mountain
 
-This site is [villalba.is](https://villalba.is) deploying in github, not at replit.
+Recently I found that for {{ . reasons}} Bing index also this site, which were totally unattended. So I'm trying to sync it with the main one.
 
-I'm plannig to move it here but I still can find a decent way to do it.
+The main is at [villalba.is](https://villalba.is) deploying here on github.
+
